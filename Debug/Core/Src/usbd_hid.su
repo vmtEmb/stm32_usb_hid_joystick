@@ -1,0 +1,10 @@
+../Core/Src/usbd_hid.c:271:16:USBD_HID_Init	24	static
+../Core/Src/usbd_hid.c:318:16:USBD_HID_DeInit	16	static
+../Core/Src/usbd_hid.c:349:16:USBD_HID_Setup	32	static
+../Core/Src/usbd_hid.c:481:9:USBD_HID_SendReport	32	static
+../Core/Src/usbd_hid.c:514:10:USBD_HID_GetPollingInterval	24	static
+../Core/Src/usbd_hid.c:544:17:USBD_HID_GetFSCfgDesc	24	static
+../Core/Src/usbd_hid.c:564:17:USBD_HID_GetHSCfgDesc	24	static
+../Core/Src/usbd_hid.c:584:17:USBD_HID_GetOtherSpeedCfgDesc	24	static
+../Core/Src/usbd_hid.c:605:16:USBD_HID_DataIn	16	static
+../Core/Src/usbd_hid.c:622:17:USBD_HID_GetDeviceQualifierDesc	16	static
